@@ -1,6 +1,3 @@
-# Termo_de_servico
-Termos de serviço para uso da aplicação
-
 # Termos de Serviço
 
 **Última atualização:** 03 de julho de 2026
